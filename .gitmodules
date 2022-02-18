@@ -1,3 +1,9 @@
 [submodule "src/Bold"]
 	path = src/Bold
 	url = git@github.com:chinayin/fonts-alibaba-puhuiti-bold.git
+[submodule "src/Heavy"]
+	path = src/Heavy
+	url = git@github.com:chinayin/fonts-alibaba-puhuiti-heavy.git
+[submodule "src/Light"]
+	path = src/Light
+	url = git@github.com:chinayin/fonts-alibaba-puhuiti-light.git

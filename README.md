@@ -15,3 +15,13 @@ composer require chinayin/fonts-alibaba-puhuiti
 ```bash
 composer require chinayin/fonts-alibaba-puhuiti-bold
 ```
+
+- Bold
+```bash
+composer require chinayin/fonts-alibaba-puhuiti-bold
+```
+
+- Bold
+```bash
+composer require chinayin/fonts-alibaba-puhuiti-bold
+```
