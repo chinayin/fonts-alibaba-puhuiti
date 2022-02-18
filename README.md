@@ -16,12 +16,22 @@ composer require chinayin/fonts-alibaba-puhuiti
 composer require chinayin/fonts-alibaba-puhuiti-bold
 ```
 
-- Bold
+- Heavy
 ```bash
-composer require chinayin/fonts-alibaba-puhuiti-bold
+composer require chinayin/fonts-alibaba-puhuiti-heavy
 ```
 
-- Bold
+- Light
 ```bash
-composer require chinayin/fonts-alibaba-puhuiti-bold
+composer require chinayin/fonts-alibaba-puhuiti-light
+```
+
+- Medium
+```bash
+composer require chinayin/fonts-alibaba-puhuiti-medium
+```
+
+- Regular
+```bash
+composer require chinayin/fonts-alibaba-puhuiti-regular
 ```
