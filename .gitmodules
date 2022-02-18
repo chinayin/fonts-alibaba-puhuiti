@@ -7,3 +7,9 @@
 [submodule "src/Light"]
 	path = src/Light
 	url = git@github.com:chinayin/fonts-alibaba-puhuiti-light.git
+[submodule "src/Medium"]
+	path = src/Medium
+	url = git@github.com:chinayin/fonts-alibaba-puhuiti-medium.git
+[submodule "src/Regular"]
+	path = src/Regular
+	url = git@github.com:chinayin/fonts-alibaba-puhuiti-regular.git
