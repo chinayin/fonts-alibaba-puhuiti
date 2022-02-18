@@ -1,0 +1,3 @@
+[submodule "src/Bold"]
+	path = src/Bold
+	url = git@github.com:chinayin/fonts-alibaba-puhuiti-bold.git

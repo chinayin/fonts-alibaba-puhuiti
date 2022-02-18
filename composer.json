@@ -1,0 +1,27 @@
+{
+  "name": "chinayin/fonts-alibaba-puhuiti",
+  "description": "阿里巴巴普惠体",
+  "authors": [
+    {
+      "name": "chinayin",
+      "email": "whereismoney@qq.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fonts\\AlibabaPuHuiTi\\": "src/"
+    }
+  },
+  "replace": {
+    "chinayin/fonts-alibaba-puhuiti-bold": "self.version",
+    "chinayin/fonts-alibaba-puhuiti-heavy": "self.version",
+    "chinayin/fonts-alibaba-puhuiti-light": "self.version",
+    "chinayin/fonts-alibaba-puhuiti-medium": "self.version",
+    "chinayin/fonts-alibaba-puhuiti-regular": "self.version"
+  }
+}
+
